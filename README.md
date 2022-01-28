@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hello, in addition to the repositories visible on the profile, I also took part in creating these projects:
-https://github.com/musialpatryk/web-book
+https://github.com/musialpatryk/web-book <br />
 https://github.com/musialpatryk/super-todo-list-api
 
 <!--
