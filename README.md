@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, in addition to the repositories visible on the profile, I also took part in creating these projects:
+Hello, in addition to the repositories visible on the profile, I also took part in creating these projects: <br />
 https://github.com/musialpatryk/web-book <br />
 https://github.com/musialpatryk/super-todo-list-api
 
